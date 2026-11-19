@@ -3,7 +3,7 @@ import requests
 import pandas as pd
 
 # FastAPI backend URL
-BASE_URL = "http://127.0.0.1:8000"
+BASE_URL = "https://patient-management-1-a1yo.onrender.com"
 
 st.set_page_config(
     page_title="Patient Management System",
